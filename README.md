@@ -1,2 +1,6 @@
 # OSSP-KBO-prediction
-kbo 성적 예측 딥러닝 모델
+
+
+#### KBO 2023년 타자 OPS 성적 예측
+
+데이터 출처 (statiz.co.kr / 스탯티즈)
